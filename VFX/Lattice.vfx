@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   groupInfos: []
   stickyNoteInfos:
-  - title: Noise Source Func
+  - title: Noise source
     position:
       serializedVersion: 2
       x: -1909
-      y: 950
+      y: 954
       width: 1259
-      height: 282
+      height: 278
     contents: input to noise
     theme: Classic
     textSize: Small
